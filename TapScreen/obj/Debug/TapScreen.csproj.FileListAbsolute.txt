@@ -1,0 +1,16 @@
+C:\Works\tools\TapScreen\TapScreen\bin\Debug\TapScreen.exe.config
+C:\Works\tools\TapScreen\TapScreen\bin\Debug\TapScreen.exe
+C:\Works\tools\TapScreen\TapScreen\bin\Debug\TapScreen.pdb
+C:\Works\tools\TapScreen\TapScreen\bin\Debug\AForge.dll
+C:\Works\tools\TapScreen\TapScreen\bin\Debug\AForge.Imaging.dll
+C:\Works\tools\TapScreen\TapScreen\bin\Debug\AForge.Math.dll
+C:\Works\tools\TapScreen\TapScreen\bin\Debug\AForge.xml
+C:\Works\tools\TapScreen\TapScreen\bin\Debug\AForge.Imaging.xml
+C:\Works\tools\TapScreen\TapScreen\bin\Debug\AForge.Math.xml
+C:\Works\tools\TapScreen\TapScreen\obj\Debug\TapScreen.csprojAssemblyReference.cache
+C:\Works\tools\TapScreen\TapScreen\obj\Debug\TapScreen.Properties.Resources.resources
+C:\Works\tools\TapScreen\TapScreen\obj\Debug\TapScreen.csproj.GenerateResource.cache
+C:\Works\tools\TapScreen\TapScreen\obj\Debug\TapScreen.csproj.CopyComplete
+C:\Works\tools\TapScreen\TapScreen\obj\Debug\TapScreen.exe
+C:\Works\tools\TapScreen\TapScreen\obj\Debug\TapScreen.pdb
+C:\Works\tools\TapScreen\TapScreen\obj\Debug\TapScreen.MainForm.resources
